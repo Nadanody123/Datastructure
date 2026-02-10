@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1761386149 source:e:\sheet1\main.c
+
+1761391767 source:e:\sheet1\stack.c
+	"stack.h"
+
+1761333633 e:\sheet1\stack.h .h
+
+1761391792 e:\sheet1\stack.h
+
+1761392299 source:e:\sheet1\main2.c
+
+1761394964 source:e:\sheet1\main3.c
+
+1761395652 source:e:\sheet1\main4.c
+
+1761396464 source:e:\sheet1\main5.c
+
+1761401429 source:e:\sheet1\main6.c
+
+1761402650 source:e:\sheet1\main7.c
+
+1761409112 source:e:\sheet1\main8.c
+
+1761409166 source:e:\sheet1\main9.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
